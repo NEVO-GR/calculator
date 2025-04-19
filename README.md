@@ -26,3 +26,33 @@ A simple command-line calculator written in Python that supports basic arithmeti
    git clone https://github.com/your-username/calculator-app.git
    cd calculator-app
    ```
+
+---
+
+## 📝 Run the program
+
+```bash
+python calculator.py
+```
+
+---
+
+## 📝 Usage
+
+You can enter arithmetic expressions directly, for example
+
+```bash
+ Write your calculation: 2 + 5 * 10
+ the final result equa: 52
+
+ # when you want to exit
+ write your calculation: exit
+
+ # print this massage -> nice to meet you
+```
+
+---
+
+## 👨‍💻 Author
+
+- ahmed abd-elmoneim
